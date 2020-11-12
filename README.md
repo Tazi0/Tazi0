@@ -5,7 +5,7 @@
 	style="color: #004d77;" 
 	alt="WEBSITE" 
 	width="40px" 
-	src="https://raw.githubusercontent.com/iconic/open-			iconic/master/svg/globe.svg" />][website]
+	src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img 
 	align="left" 
