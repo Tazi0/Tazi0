@@ -31,9 +31,9 @@
 
 <br />
 <br />
-<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tazi0&layout=compact&hide_borders&theme=midnight-purple">
+<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tazi0&layout=compact&hide_border=true&theme=midnight-purple">
 
-<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Tazi0&show_icons=true&hide_borders&theme=midnight-purple&hide=prs,issues">
+<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Tazi0&show_icons=true&hide_border=true&theme=midnight-purple&hide=prs,issues">
 
 
 [website]: https://tazi0.github.io
