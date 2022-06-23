@@ -1,12 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js          8 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.98 %
-Svelte          3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-JavaScript      2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-TypeScript      1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-GraphQL         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-YAML            1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Vue.js          5 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.41 %
+Other           4 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.96 %
 ```
 
 <!--END_SECTION:waka-->
