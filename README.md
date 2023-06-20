@@ -5,7 +5,7 @@ Java         1 hrs 4 mins    █████████████████
 Text         0 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
 TSX          0 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
 TypeScript   0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-yarn.lock    0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
