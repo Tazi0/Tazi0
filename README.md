@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP               4 hrs 43 mins   █████████████████████░░░░   83.98 %
-YAML              0 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-JSON              0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Locale            0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JavaScript        0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+PHP               6 hrs 4 mins    ████████████████████▓░░░░   83.11 %
+YAML              1 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Bash              0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JavaScript        0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Gettext Catalog   0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
