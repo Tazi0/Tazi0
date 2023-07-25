@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              2 hrs 56 mins   ███████████████████████░░   92.20 %
-unknown          0 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-YAML             0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Bash             0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-PLAIN_TEXT       0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
