@@ -1,8 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro            0 hrs 3 mins    ████████████████░░░░░░░░░   64.59 %
-GitIgnore file   0 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   35.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
