@@ -1,11 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          3 hrs 17 mins   ████████████████████▒░░░░   81.60 %
-TypeScript   0 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-YAML         0 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JSON         0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JavaScript   0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   0 hrs 27 mins   ████████████████████████▒   96.87 %
+JavaScript   0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+.env file    0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Bash         0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
