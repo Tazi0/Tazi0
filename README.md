@@ -1,10 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 hrs 27 mins   ████████████████████████▒   96.87 %
-JavaScript   0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-.env file    0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Bash         0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   0 hrs 22 mins   ████████████████████████▒   97.61 %
+JavaScript   0 hrs 1 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+.env file    0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
