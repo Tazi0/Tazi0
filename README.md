@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 hrs 34 mins   ████████████░░░░░░░░░░░░░   48.39 %
-PHP          0 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.66 %
-CSS          0 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-SourceMap    0 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-JSON         0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Svelte           0 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   44.96 %
+PHP              0 hrs 27 mins   ███████████░░░░░░░░░░░░░░   44.56 %
+.env file        0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+JSON             0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+GitIgnore file   0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
