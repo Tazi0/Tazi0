@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte           5 hrs 31 mins   ████████████████████▓░░░░   82.90 %
-PHP              0 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-JavaScript       0 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Turtle           0 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-.env file        0 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Svelte           6 hrs 2 mins    ███████████████████▓░░░░░   79.12 %
+PHP              0 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+unknown          0 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JavaScript       0 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Turtle           0 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
