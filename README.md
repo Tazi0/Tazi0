@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#               1 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
-PHP              1 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-JSON             1 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-Razor            0 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-XML              0 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
