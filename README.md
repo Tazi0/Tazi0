@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#              6 hrs 17 mins   █████████████████████▒░░░   85.19 %
-Razor           0 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-JavaScript      0 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-AUTO_DETECTED   0 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-SCSS            0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+C#              5 hrs 4 mins    ███████████████████████░░   91.42 %
+Razor           0 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+AUTO_DETECTED   0 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+JavaScript      0 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Csproj          0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
