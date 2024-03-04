@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       2 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
-PHP              2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.37 %
-SCSS             1 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-TSX              1 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-YAML             0 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
