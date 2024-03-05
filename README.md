@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript     3 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.49 %
+PHP            1 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+HTML           0 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Blade          0 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+SCSS           0 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:waka-->
