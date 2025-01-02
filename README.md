@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP               0 hrs 12 mins   ███████████████▓░░░░░░░░░   62.87 %
-SCSS              0 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-TypeScript        0 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Markdown          0 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-PLAIN_TEXT        0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+PHP               0 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.30 %
+TypeScript        0 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+JavaScript        0 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+SCSS              0 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Markdown          0 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
