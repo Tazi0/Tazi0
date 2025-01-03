@@ -2,10 +2,10 @@
 
 ```txt
 PHP               0 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.30 %
-TypeScript        0 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 %
-JavaScript        0 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+TypeScript        0 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.00 %
 SCSS              0 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
 Markdown          0 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+JavaScript        0 hrs 1 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
