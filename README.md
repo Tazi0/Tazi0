@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSX          4 hrs 58 mins   ████████████░░░░░░░░░░░░░   47.91 %
-SCSS         2 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.97 %
-unknown      1 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-TypeScript   0 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-JavaScript   0 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TSX          3 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   40.99 %
+SCSS         1 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+unknown      1 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+JavaScript   0 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+TypeScript   0 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
