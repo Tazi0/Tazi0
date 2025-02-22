@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-YAML         1 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-PHP          0 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-TypeScript   0 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Swift        0 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+YAML         1 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+Swift        1 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+JavaScript   1 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+PHP          0 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+TypeScript   0 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
 ```
 
 <!--END_SECTION:waka-->
