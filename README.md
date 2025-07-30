@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSX          2 hrs 33 mins   ██████████████▒░░░░░░░░░░   57.79 %
-SCSS         0 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-YAML         0 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Typescript   0 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-PHP          0 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
