@@ -1,7 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typescript   0 hrs 24 mins   █████████████████████████   100.00 %
+Typescript   0 hrs 12 mins   █████████████████████████   100.00 %
+Unknown      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
