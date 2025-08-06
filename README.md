@@ -1,8 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typescript   0 hrs 12 mins   █████████████████████████   100.00 %
-Unknown      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP               0 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.71 %
+YAML              0 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+Unknown           0 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Typescript        0 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Json              0 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
 ```
 
 <!--END_SECTION:waka-->
