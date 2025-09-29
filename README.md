@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typescript   0 hrs 0 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
