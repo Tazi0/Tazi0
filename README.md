@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Svelte       2 hrs 55 mins   ███████████████████████▒░   92.99 %
+Html         0 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Javascript   0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Json         0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+XML          0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
