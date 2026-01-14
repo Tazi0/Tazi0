@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSX            4 hrs 13 mins   █████████████████▓░░░░░░░   70.72 %
-Markdown       0 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Json           0 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Typescript     0 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Shell script   0 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+TSX            5 hrs 9 mins    █████████████████████▒░░░   85.86 %
+Json           0 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Typescript     0 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Shell script   0 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Markdown       0 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
