@@ -1,9 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSX          0 hrs 25 mins   ████████████████████████▓   99.09 %
-JSX          0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Typescript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
